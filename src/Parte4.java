@@ -6,7 +6,7 @@ import java.util.Collections;
 /**
  * Taller 6 - Parte 4: Colecciones ArrayList y LinkedList
  * Integrante A: Eric Fabián De León Batista
- * Integrante B: ___________________________
+ * Integrante B: (trabajo individual)
  */
 public class Parte4 {
     public static void main(String[] args) {

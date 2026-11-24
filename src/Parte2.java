@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 /**
  * Taller 6 - Parte 2: Arreglos de dos dimensiones
  * Integrante A: Eric Fabián De León Batista
- * Integrante B: ___________________________
+ * Integrante B: (trabajo individual)
  */
 public class Parte2 {
     public static void main(String[] args) {

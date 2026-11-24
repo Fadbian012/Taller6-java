@@ -1,6 +1,6 @@
 TALLER 6 - RESPUESTAS PARTE 3
 Integrante A: Eric Fabián De León Batista
-Integrante B: ___________________________
+Integrante B: (trabajo individual)
 
 ──────────────────────────────────────────
 1. ¿Qué contiene productos[0] antes de ejecutar new Producto(...)?

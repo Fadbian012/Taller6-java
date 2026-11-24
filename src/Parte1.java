@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 /**
  * Taller 6 - Parte 1: Arreglos de una dimensión
  * Integrante A: Eric Fabián De León Batista
- * Integrante B: ___________________________
+ * Integrante B: (trabajo individual)
  * Fecha: 23/11/2026
  */
 public class Parte1 {

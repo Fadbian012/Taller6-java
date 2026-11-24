@@ -1,7 +1,7 @@
 /**
  * Taller 6 - Parte 3: Clase Producto para arreglo de objetos
  * Integrante A: Eric Fabián De León Batista
- * Integrante B: ___________________________
+ * Integrante B: (trabajo individual)
  */
 public class Producto {
 
